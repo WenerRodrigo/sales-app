@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css';
+import './styles/global.css';
 
 function App() {
   return (
     <div className="App">
-      <li>Hello Word</li>
+      Hello Word
     </div>
   );
 }
