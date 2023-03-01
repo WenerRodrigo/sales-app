@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
         <div className='rodape'>
-           <p className='descricao'>Todos os direitos Reservados @2023 CopyRigth </p>
+           <p className='descricao'> © Copyright 2023 Company Name. All rights reserved. </p>
         </div>
     </div>
   )
