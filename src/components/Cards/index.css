@@ -1,0 +1,27 @@
+body {
+    background: #050505;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.elemento {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    background-color: #151516;
+    border-radius: 10px;
+    margin-top: 20px;
+    color: white;
+}
+
+.elemento:hover {
+    background-color: #575050;
+}
+

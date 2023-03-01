@@ -1,0 +1,11 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4548e9
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+}
