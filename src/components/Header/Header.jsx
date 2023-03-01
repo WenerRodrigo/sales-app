@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div>
         <div className='cabecalho'>
-            <h1 className='title'>Escolha o seu Card favorito</h1>
+            <h1 className='title'>Faturamento Diário</h1>
         </div>
     </div>
   )

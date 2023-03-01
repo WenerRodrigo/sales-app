@@ -2,10 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #777
+    background-color: #d6dcdd;
+    height: 13rem;
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: bold;
 }

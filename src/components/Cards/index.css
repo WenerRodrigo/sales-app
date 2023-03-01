@@ -12,6 +12,8 @@ body {
 
 .elemento {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
     width: 400px;
     height: 300px;
@@ -23,8 +25,15 @@ body {
 }
 
 .elemento:hover {
-    /* background-color: #3431cc; */
     transform: scale(1.1);
     opacity: 0.8;
 }
 
+.day {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.value {
+    font-size: 2rem;
+}
